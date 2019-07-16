@@ -6,12 +6,6 @@
   "types": "build/ImagePicker.d.ts",
   "sideEffects": false,
   "scripts": {
-    "build": "expo-module build",
-    "clean": "expo-module clean",
-    "test": "expo-module test",
-    "prepare": "expo-module prepare",
-    "prepublishOnly": "expo-module prepublishOnly",
-    "expo-module": "expo-module"
   },
   "keywords": [
     "react-native",
